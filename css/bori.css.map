@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,EAAE,CAAA;EAAC,gBAAgB,EAFR,SAAS;CAEY",
+    "sources": [
+        "bori.scss"
+    ],
+    "names": [],
+    "file": "bori.css"
+}
